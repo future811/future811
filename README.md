@@ -45,6 +45,9 @@
   
  </div>
 
-  <h1><strong>Integration</strong></h1>  <a href='https://t.me/future7033/'><img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=Telegram&logoColor=26A5E4"/></a>  <a href='https://steamcommunity.com/profiles/76561199712243874/'><img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=white"/>  <a href='https://open.spotify.com/user/'><img src="https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify&logoColor=1ED760"/></a>
+  <h1><strong>Integration</strong></h1>
+  <div>
+    <a href='https://t.me/future7033/'><img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=Telegram&logoColor=26A5E4"/></a>  <a href='https://steamcommunity.com/profiles/76561199712243874/'><img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=white"/>  <a href='https://open.spotify.com/user/'><img src="https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify&logoColor=1ED760"/> <a href='https://www.linkedin.com/in/chyngyz-sadanov-308a88428/'><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/></a></a>
+  </div>
 
 

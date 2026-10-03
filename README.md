@@ -9,7 +9,7 @@
  <p><strong>My technology stack🛠</strong></p>
 <div>
  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
- <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS&logoColor=663399"/>
  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow"/>
  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue"/>
  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel&logoColor=white"/>

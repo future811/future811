@@ -13,7 +13,6 @@
  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow"/>
  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue"/>
  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=Netlify&logoColor=00C7B7"/>
  <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=DD2C00"/>
   <img src="https://img.shields.io/badge/Npm-black?style=for-the-badge&logo=Npm&logoColor=CB3837"/>
  </div>

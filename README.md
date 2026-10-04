@@ -1,6 +1,5 @@
 <div align-center>
-  <img src='https://steamuserimages-a.akamaihd.net/ugc/1011527815303113550/E0D41E6A8172398D61972B5B6F1FF09FA59BD32A/?imw=512&amp;&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false'/>
-
+  <img src='https://images.steamusercontent.com/ugc/11217704338195529128/F451F1241531703FFABA4912FB47E07B87186386/?imw=2048&imh=857&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true'/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=white&lines=Hello+my+name+is+Chyngyz+)](https://git.io/typing-svg)
 
